@@ -1,8 +1,0 @@
-server:
-  port: 5000
-
-
-endpoints:
-  health:
-    mapping:
-      UP: INTERNAL_SERVER_ERROR  
